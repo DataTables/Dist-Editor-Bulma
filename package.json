@@ -1,0 +1,24 @@
+{
+  "name": "datatables.net-editor-bm",
+  "version": "2.0.3",
+  "description": "DataTables Editor - Bulma integration",
+  "main": "js/editor.bulma.js",
+  "style": "css/editor.bulma.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:DataTables/Dist-Editor-Bulma.git"
+  },
+  "keywords": [
+    "DataTables",
+    "Editor",
+    "Bulma"
+  ],
+  "dependencies": {
+    "datatables.net-editor": "^2.0.3"
+  },
+  "author": "SpryMedia Ltd",
+  "license": "SEE LICENSE IN License.md"
+}
