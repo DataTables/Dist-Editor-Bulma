@@ -1,8 +1,9 @@
 {
   "name": "datatables.net-editor-bm",
-  "version": "2.0.3",
+  "version": "2.2.0",
   "description": "DataTables Editor - Bulma integration",
   "main": "js/editor.bulma.js",
+  "module": "js/editor.bulma.mjs",
   "style": "css/editor.bulma.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +18,7 @@
     "Bulma"
   ],
   "dependencies": {
-    "datatables.net-editor": "^2.0.3"
+    "datatables.net-editor": "^2.2.0"
   },
   "author": "SpryMedia Ltd",
   "license": "SEE LICENSE IN License.md"
